@@ -1,0 +1,254 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Страница — 1" id="pbM0AjTp521NsUl52udd">
+    <mxGraphModel dx="2142" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-2" value="&lt;div&gt;1. ОБЪЕКТ ИССЛЕДОВАНИЯ&lt;/div&gt;&lt;div&gt;Студенты университета Туран как пользователи цифровых сервисов и онлайн-платформ&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-3" value="&lt;div&gt;2. ПРЕДМЕТ ИССЛЕДОВАНИЯ&lt;/div&gt;&lt;div&gt;Практики использования инструментов защиты информации, уровень осведомленности студентов о средствах кибербезопасности и частота их применения&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="310" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-4" value="&lt;div&gt;3. ГИПОТЕЗА&lt;/div&gt;&lt;div&gt;Низкий уровень использования инструментов кибербезопасности студентами связан с недостаточной осведомленностью о существующих средствах защиты и отсутствием навыков их применения&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="290" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-5" value="&lt;div&gt;4. ЦЕЛЬ ИССЛЕДОВАНИЯ&lt;/div&gt;&lt;div&gt;Выявить уровень использования инструментов кибербезопасности студентами университета Туран и определить факторы, влияющие на их применение в повседневной цифровой практике&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317" y="315" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-7" target="oF6NKoGDizIeHW3Ln0yO-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="593" />
+              <mxPoint x="710" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-7" target="oF6NKoGDizIeHW3Ln0yO-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="593" />
+              <mxPoint x="710" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-7" value="5. ЗАДАЧИ ИССЛЕДОВАНИЯ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="573.25" width="166.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-14" target="oF6NKoGDizIeHW3Ln0yO-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="760" />
+              <mxPoint x="270" y="760" />
+              <mxPoint x="270" y="812" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-14" target="oF6NKoGDizIeHW3Ln0yO-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="760" />
+              <mxPoint x="290" y="760" />
+              <mxPoint x="290" y="903" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-14" target="oF6NKoGDizIeHW3Ln0yO-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="760" />
+              <mxPoint x="330" y="760" />
+              <mxPoint x="330" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-14" target="oF6NKoGDizIeHW3Ln0yO-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="760" />
+              <mxPoint x="370" y="760" />
+              <mxPoint x="370" y="1077" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-14" value="6. МЕТОДЫ ИССЛЕДОВАНИЯ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="710" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-17" value="7. ОБСУЖДЕНИЕ&#xa;Интерпретация полученных результатов в связи с выдвинутой гипотезой и целями исследования. Выявление ключевых факторов, влияющих на использование студентами инструментов кибербезопасности (образовательный уровень, специальность, личный опыт киберинцидентов). Сопоставление результатов с научными данными и международными исследованиями в области цифровой безопасности молодежи." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="273.25" width="220" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-23" target="oF6NKoGDizIeHW3Ln0yO-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-23" target="oF6NKoGDizIeHW3Ln0yO-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-490" y="718" />
+              <mxPoint x="-490" y="919" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-23" target="oF6NKoGDizIeHW3Ln0yO-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-460" y="718" />
+              <mxPoint x="-460" y="798" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-23" value="8. РЕЗУЛЬТАТЫ ИССЛЕДОВАНИЯ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-375" y="698.25" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-24" value="Результат 1: Получена статистика использования различных инструментов кибербезопасности студентами (процентное соотношение использующих антивирусы, VPN, менеджеры паролей и т.д.)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="750" width="290" height="95.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-26" value="Результат 2: Выявлены основные проблемы и барьеры, препятствующие использованию средств защиты (низкая осведомленность - X%, сложность использования - Y%, считают ненужным - Z%)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="873.25" width="290" height="90.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-27" value="&lt;div&gt;Результат 3: Подготовлены практические рекомендации:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.1 Для студентов: список необходимых инструментов и инструкции по их использованию&lt;/div&gt;&lt;div&gt;3.2 Для университета: предложения по внедрению образовательных программ по кибербезопасности&lt;/div&gt;&lt;div&gt;3.3 Для IT-службы: рекомендации по технической поддержке студентов&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="990" width="350" height="118.25" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-29" value="&lt;div&gt;Метод 1: Анкетирование&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.1 Опрос студентов различных курсов и специальностей университета Туран&lt;/div&gt;&lt;div&gt;1.2 Выявление используемых инструментов и уровня осведомленности&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="770" width="300" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-30" value="&lt;div&gt;Метод 2: Статистический анализ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.1 Обработка полученных данных&lt;/div&gt;&lt;div&gt;2.2 Выявление закономерностей и корреляций&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="869.25" width="280" height="66.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-31" value="&lt;div&gt;Метод 3: Сравнительный анализ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.1 Сравнение уровня осведомленности студентов разных специальностей&lt;/div&gt;&lt;div&gt;3.2 Анализ различий в использовании инструментов&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="950" width="320" height="79.25" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-32" value="&lt;div&gt;Метод 4: Контент-анализ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.1 Изучение научных источников и актуальных данных о киберугрозах&lt;/div&gt;&lt;div&gt;4.2 Анализ существующих рекомендаций по кибербезопасности&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1041.5" width="400" height="71.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-34" value="Задача 1: Изучить теоретические основы кибербезопасности и классифицировать существующие инструменты защиты информации (антивирусы, VPN, менеджеры паролей, двухфакторная аутентификация и др.)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="620.5" width="267" height="99.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-35" value="Задача 2: Определить уровень использования различных инструментов кибербезопасности студентами через анкетирование" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="738.25" width="267" height="61.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-36" value="Задача 3: Выявить основные причины низкого использования средств защиты (незнание, сложность использования, отсутствие необходимости и т.д.)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="820" width="267" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-37" value="Задача 4: Разработать практические рекомендации по повышению уровня кибербезопасности для студентов и администрации университета" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="910" width="267" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-40" value="&lt;div&gt;ТЕМА ИССЛЕДОВАНИЯ&amp;nbsp;&lt;/div&gt;&lt;div&gt;Использование студентами Турана инструментов кибербезопасности&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="160" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="oF6NKoGDizIeHW3Ln0yO-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="160" as="sourcePoint" />
+            <mxPoint x="-60" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.232;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="oF6NKoGDizIeHW3Ln0yO-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="280" as="sourcePoint" />
+            <mxPoint x="-60" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="60" as="sourcePoint" />
+            <mxPoint x="180" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.784;exitY=0.084;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="340" as="sourcePoint" />
+            <mxPoint x="180" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.532;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.459;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-4" target="oF6NKoGDizIeHW3Ln0yO-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="300" as="sourcePoint" />
+            <mxPoint x="560" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-7" target="oF6NKoGDizIeHW3Ln0yO-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="593" />
+              <mxPoint x="710" y="774" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-7" target="oF6NKoGDizIeHW3Ln0yO-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="593" />
+              <mxPoint x="710" y="862" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.597;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="520" as="sourcePoint" />
+            <mxPoint x="580" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="oF6NKoGDizIeHW3Ln0yO-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="590" as="sourcePoint" />
+            <mxPoint x="400" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-14" target="oF6NKoGDizIeHW3Ln0yO-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="690" as="sourcePoint" />
+            <mxPoint x="-30" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-23" target="oF6NKoGDizIeHW3Ln0yO-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-370" y="690" as="sourcePoint" />
+            <mxPoint x="-320" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-56" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.984;exitY=0.566;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.307;entryY=0.945;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-17" target="oF6NKoGDizIeHW3Ln0yO-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="530" as="sourcePoint" />
+            <mxPoint x="-210" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-180" y="466" />
+              <mxPoint x="220" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-57" value="порождает" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-35;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-58" value="порождает" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=20;" vertex="1" parent="1">
+          <mxGeometry x="-120.00027168317465" y="300.0003381183767" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-60" value="формируют" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="145" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oF6NKoGDizIeHW3Ln0yO-60" target="oF6NKoGDizIeHW3Ln0yO-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="210" as="sourcePoint" />
+            <mxPoint x="20" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-63" value="определяет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=60;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-64" value="конкретизируется в" style="text;whiteSpace=wrap;html=1;rotation=75;" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="490" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-65" value="решаются через" style="text;whiteSpace=wrap;html=1;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="613.25" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-66" value="дают" style="text;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="680" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-67" value="анализируются в" style="text;whiteSpace=wrap;html=1;rotation=55;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="613.25" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oF6NKoGDizIeHW3Ln0yO-68" value="подтверждает" style="text;whiteSpace=wrap;html=1;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="470" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
